@@ -3,6 +3,7 @@ __pycache__/
 *$py.class
 .vscode
 out/
+.iml
 
 .DS_Store
 .env
